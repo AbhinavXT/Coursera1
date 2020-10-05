@@ -24,11 +24,12 @@ p {
   margin-top: 10px;
   margin-bottom: 10px;
   padding: 10px;
+;
 }
 
 section {
   border: 3px solid black;
-  background-image: grey;
+  background-color: grey;
   text-align: center;
   width: 100%;
   height: auto;
